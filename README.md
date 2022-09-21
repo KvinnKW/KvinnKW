@@ -1,2 +1,2 @@
 ## Olá meu nome e Kevin Willian
-Desenvolvedor Web | HTML | CSS | JavaScript
+Cursando Engenharia de Software | HTML | CSS | Python
